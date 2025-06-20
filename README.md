@@ -4,6 +4,11 @@
 
 This project presents an advanced deep learning system for the precise segmentation of retinal blood vessels from fundus images. It integrates innovative architectural designs with specialized training methodologies tailored for medical image analysis.
 
+### Fundus Image Dataset for Vessel Segmentation
+High-resolution manually annotated fundus images for vessel segmentation.
+
+DataSet : https://www.kaggle.com/datasets/nikitamanaenkov/fundus-image-dataset-for-vessel-segmentation
+
 ### Visualization of Processed Data and Predictions
 
 This visualization phase systematically renders each image-mask pair alongside its composite overlay to support qualitative evaluation. The approach emphasizes clarity, consistency, and ease of interpretation through the following strategies:
