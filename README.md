@@ -78,8 +78,8 @@ The pre-processed datasets are organized as follows:
     * The augmentation process improves model **generalization** by exposing it to a broader spectrum of plausible data variations, a crucial factor in medical image analysis where sample sizes are frequently limited.
 
 <p align="center">
-    <img src="https://github.com/Ahnuf-Karim-Chowdhury/Fundus-Image-Dataset-for-Vessel-Segmentation/blob/main/DataSet/processed_train/Original/100_A.png?raw=true" style="width: 49%; height: auto;" />
-    <img src="https://github.com/Ahnuf-Karim-Chowdhury/Fundus-Image-Dataset-for-Vessel-Segmentation/blob/main/DataSet/processed_train/Ground%20truth/100_A.png?raw=true" style="width: 49%; height: auto;" />
+    <img src="https://github.com/Ahnuf-Karim-Chowdhury/Fundus-Vessel-Segmentation-Detection-Using-Deep-Learning/blob/main/DataSet/processed_train/Original/100_A.png?raw=true" style="width: 49%; height: auto;" />
+    <img src="https://github.com/Ahnuf-Karim-Chowdhury/Fundus-Vessel-Segmentation-Detection-Using-Deep-Learning/blob/main/DataSet/processed_train/Ground%20truth/100_A.png?raw=true" style="width: 49%; height: auto;" />
 </p>
 
 ## Technical Approach
