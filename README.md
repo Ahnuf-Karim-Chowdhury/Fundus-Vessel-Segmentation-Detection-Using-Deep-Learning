@@ -400,3 +400,11 @@ This step verifies how well the model generalizes to unseen images by combining 
 <p align="center">
     <img src="https://github.com/Ahnuf-Karim-Chowdhury/Fundus-Vessel-Segmentation-Detection-Using-Deep-Learning/blob/main/Images/model_01_prediction.png?raw=true" style="max-width: 100%; height: auto;" />
 </p>
+
+## License
+
+This project is licensed under a **Custom License - All Rights Reserved**.  
+See the [LICENSE](LICENSE) file for details.
+
+© 2025 Ahnuf Karim Chowdhury
+
